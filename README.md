@@ -1,5 +1,5 @@
 # mediaPad
-![Overall Image](image.png)
+![alt text](image-4.png)
 This is my submission for hackpad. It's a macropad centered around media control, a mediaPad!
 # Features
 - 3 keyboard buttons
